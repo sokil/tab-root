@@ -1,10 +1,9 @@
 # tab-root
 
-# Glossary:
+# Glossary
 
-## PIT-file
-
-File with partitions
+* PIT-file: file with partitions
+* ADB Sideload: the command that allows you to transfer the Android system installation file (it is always a .zip file) and install it directly on the phone, from the PC.
 
 # Flashing
 
