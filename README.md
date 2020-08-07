@@ -24,4 +24,7 @@ sudo apt install heimdall-flash
 heimdall flash --RECOVERY twrp-2.8.7.0-gt-n8000.img --no-reboot
 ```
 
+5) After transfer completes and blue line shown boot to recovery mode using "power" + "volume up" keys. 
+This required because boot to OS will overwrite custom recovery with default.
+
 
